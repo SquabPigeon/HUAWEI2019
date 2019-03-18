@@ -1,1 +1,1 @@
-# HUAWEI2019
+# 2019 Huawei Software Elite Challenge
